@@ -8,3 +8,4 @@ Dans ce projet nous analysons les ventes et les parts de Marché de Vanarsdel av
 + Exploration des données
 + Visualisation des données
 + Publication de rapport dans le cloud(Power BI Service)
+  
